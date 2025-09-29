@@ -131,6 +131,7 @@ i) Using Laplacian Kernal
 
 
 ii) Using Laplacian Operator
+
 <img width="531" height="492" alt="image" src="https://github.com/user-attachments/assets/66b0f21f-478e-442d-8473-141cae64a09c" />
 
 
