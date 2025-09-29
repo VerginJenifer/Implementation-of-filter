@@ -118,6 +118,7 @@ iii)Using Gaussian Filter
 <img width="514" height="516" alt="image" src="https://github.com/user-attachments/assets/a0e64bad-913d-4577-bfe6-099b566599d2" />
 
 iv) Using Median Filter
+
 <img width="496" height="523" alt="image" src="https://github.com/user-attachments/assets/f0438f17-94de-4cd8-b891-0710ed28f2f0" />
 
 
@@ -130,6 +131,7 @@ i) Using Laplacian Kernal
 
 
 ii) Using Laplacian Operator
+<img width="531" height="492" alt="image" src="https://github.com/user-attachments/assets/66b0f21f-478e-442d-8473-141cae64a09c" />
 
 
 ## Result:
